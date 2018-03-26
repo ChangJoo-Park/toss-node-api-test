@@ -1,0 +1,16 @@
+{
+  "name": "toss-api-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["toss"],
+  "author": "ChangJoo Park(pcjpcj2@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "shortid": "^2.2.8",
+    "toss-node-api": "^1.0.2"
+  }
+}
